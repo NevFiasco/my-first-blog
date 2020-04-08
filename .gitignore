@@ -1,0 +1,14 @@
+/.idea/2_Django_Tutorial.iml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/workspace.xml
+/blog/__pycache__/__init__.cpython-36.pyc
+/blog/__pycache__/admin.cpython-36.pyc
+/blog/__pycache__/models.cpython-36.pyc
+/blog/migrations/__pycache__/__init__.cpython-36.pyc
+/blog/migrations/__pycache__/0001_initial.cpython-36.pyc
+/mysite/__pycache__/__init__.cpython-36.pyc
+/mysite/__pycache__/settings.cpython-36.pyc
+/mysite/__pycache__/urls.cpython-36.pyc
+/mysite/__pycache__/wsgi.cpython-36.pyc
